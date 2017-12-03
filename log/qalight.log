@@ -1,0 +1,203 @@
+2017-01-12 22:26:34   INFO [loginTest.ValidLogin] : Chrome will be started
+2017-01-12 22:30:06   INFO [loginTest.ValidLogin] : Chrome will be started
+2017-01-12 22:31:09   INFO [loginTest.ValidLogin] : Chrome will be started
+2017-01-12 22:31:56   INFO [loginTest.ValidLogin] : Chrome will be started
+2017-01-12 22:32:40   INFO [loginTest.ValidLogin] : Chrome is started
+2017-01-12 22:33:33   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-01-12 22:33:34   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-01-12 22:33:57   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-01-12 22:37:00   INFO [loginTest.ValidLogin] : Chrome will be started
+2017-01-12 22:37:07   INFO [loginTest.ValidLogin] : Chrome is started
+2017-01-12 22:37:48   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-01-12 22:37:48   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-01-12 22:38:08   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-01-12 22:40:32   INFO [loginTest.ValidLogin] : Chrome will be started
+2017-01-12 22:40:39   INFO [loginTest.ValidLogin] : Chrome is started
+2017-01-12 22:41:08   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-01-12 22:41:08   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-01-12 22:41:32   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-01-12 22:42:14   INFO [loginTest.ValidLogin] : Chrome will be started
+2017-01-12 22:42:19   INFO [loginTest.ValidLogin] : Chrome is started
+2017-01-12 22:42:58   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-01-12 22:42:58   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-01-12 22:43:25   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-01-12 22:45:38   INFO [loginTest.ValidLogin] : Chrome will be started
+2017-01-12 22:45:42   INFO [loginTest.ValidLogin] : Chrome is started
+2017-01-12 22:46:11   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-01-12 22:46:11   INFO [libs.ActionWithOurElements] : 1qazxswwas inputed to input
+2017-01-12 22:46:18   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-01-12 22:46:29   INFO [libs.Utils] : ScreenShot: ..\Angel\target\screenshot\loginTest\ValidLogin\validLogin[0].jpg
+2017-02-12 14:55:49   INFO [editProfileTest.EditProfileTest] : Chrome will be started
+2017-02-12 14:56:04   INFO [editProfileTest.EditProfileTest] : Chrome is started
+2017-02-12 14:56:15  ERROR [libs.ActionWithOurElements] : Can not work with input
+2017-02-12 14:57:18   INFO [editProfileTest.EditProfileTest] : Chrome will be started
+2017-02-12 14:57:25   INFO [editProfileTest.EditProfileTest] : Chrome is started
+2017-02-12 14:58:24  ERROR [libs.ActionWithOurElements] : Can not work with input
+2017-02-12 14:58:41   INFO [editProfileTest.EditProfileTest] : Chrome will be started
+2017-02-12 14:58:46   INFO [editProfileTest.EditProfileTest] : Chrome is started
+2017-02-12 14:58:56  ERROR [libs.ActionWithOurElements] : Can not work with input
+2017-02-12 15:05:01   INFO [editProfileTest.EditProfileTest] : Chrome will be started
+2017-02-12 15:05:05   INFO [editProfileTest.EditProfileTest] : Chrome is started
+2017-02-12 15:05:13   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-02-12 15:05:13   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-02-12 15:05:17   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:05:22   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:05:22   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:05:22   INFO [libs.ActionWithOurElements] : Israwas inputed to input
+2017-02-12 15:05:22  ERROR [libs.ActionWithOurElements] : Can not work with element
+2017-02-12 15:06:22   INFO [editProfileTest.EditProfileTest] : Chrome will be started
+2017-02-12 15:06:28   INFO [editProfileTest.EditProfileTest] : Chrome is started
+2017-02-12 15:06:45   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-02-12 15:06:46   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-02-12 15:06:49   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:06:53   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:06:53   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:07:07   INFO [libs.ActionWithOurElements] : Israwas inputed to input
+2017-02-12 15:08:08  ERROR [libs.ActionWithOurElements] : Can not work with element
+2017-02-12 15:12:28   INFO [editProfileTest.EditProfileTest] : Chrome will be started
+2017-02-12 15:12:34   INFO [editProfileTest.EditProfileTest] : Chrome is started
+2017-02-12 15:12:50   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-02-12 15:12:50   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-02-12 15:12:54   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:12:58   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:12:58   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:13:37  ERROR [libs.ActionWithOurElements] : Can not work with input
+2017-02-12 15:15:01   INFO [editProfileTest.EditProfileTest] : Chrome will be started
+2017-02-12 15:15:05   INFO [editProfileTest.EditProfileTest] : Chrome is started
+2017-02-12 15:15:12   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-02-12 15:15:12   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-02-12 15:15:17   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:15:21   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:15:21   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:15:21   INFO [libs.ActionWithOurElements] : Israelwas inputed to input
+2017-02-12 15:15:21  ERROR [libs.ActionWithOurElements] : Can not work with element
+2017-02-12 15:29:17   INFO [editProfileTest.EditProfileTest] : Chrome will be started
+2017-02-12 15:29:23   INFO [editProfileTest.EditProfileTest] : Chrome is started
+2017-02-12 15:29:31   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-02-12 15:29:31   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-02-12 15:29:35   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:29:39   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:29:39   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:29:40   INFO [libs.ActionWithOurElements] : Israwas inputed to input
+2017-02-12 15:29:40  ERROR [libs.ActionWithOurElements] : Can not work with element
+2017-02-12 15:40:54   INFO [editProfileTest.EditProfileTest] : Chrome will be started
+2017-02-12 15:40:58   INFO [editProfileTest.EditProfileTest] : Chrome is started
+2017-02-12 15:41:07   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-02-12 15:41:08   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-02-12 15:41:16   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:41:19   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:41:20   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:41:20   INFO [libs.ActionWithOurElements] : Israelwas inputed to input
+2017-02-12 15:41:30   INFO [libs.Utils] : ScreenShot: ..\Angel\target\screenshot\editProfileTest\EditProfileTest\editProfileTest[0].jpg
+2017-02-12 15:43:11   INFO [editProfileTest.EditProfileTest] : Chrome will be started
+2017-02-12 15:43:16   INFO [editProfileTest.EditProfileTest] : Chrome is started
+2017-02-12 15:43:21   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-02-12 15:43:22   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-02-12 15:43:24   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:43:29   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:43:29   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-02-12 15:43:30   INFO [libs.ActionWithOurElements] : Israelwas inputed to input
+2017-02-12 15:55:38   INFO [loginTest.ValidLogin] : Chrome will be started
+2017-02-12 15:55:44   INFO [loginTest.ValidLogin] : Chrome is started
+2017-02-12 15:55:53   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-02-12 15:55:53   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-02-12 15:55:57   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 20:03:02   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-03-12 20:03:13   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-03-12 20:04:00  ERROR [libs.ActionWithOurElements] : Can not work with input
+2017-03-12 20:06:26   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-03-12 20:06:34   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-03-12 20:09:51   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-03-12 20:09:56   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-03-12 20:10:08   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 20:10:08   INFO [libs.ActionWithOurElements] : Eabce Cabcewas inputed to input
+2017-03-12 20:10:08   INFO [libs.ActionWithOurElements] : Eabce.Cabce@foo.comwas inputed to input
+2017-03-12 20:10:08   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-03-12 20:10:19   INFO [libs.Utils] : ScreenShot: ..\Angel\target\screenshot\signUpTest\SignUpTest\SignUpTest[0].jpg
+2017-03-12 20:10:52   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-03-12 20:10:57   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-03-12 20:11:09   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 20:11:10   INFO [libs.ActionWithOurElements] : Fabce Gabcewas inputed to input
+2017-03-12 20:11:10   INFO [libs.ActionWithOurElements] : Fabce.Gabce@foo.comwas inputed to input
+2017-03-12 20:11:10   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-03-12 20:11:17   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 20:11:27   INFO [libs.Utils] : ScreenShot: ..\Angel\target\screenshot\signUpTest\SignUpTest\SignUpTest[0].jpg
+2017-03-12 23:05:51   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-03-12 23:06:03   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-03-12 23:06:15   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:06:16   INFO [libs.ActionWithOurElements] : Habce Babcewas inputed to input
+2017-03-12 23:06:16   INFO [libs.ActionWithOurElements] : Habce.Babce@foo.comwas inputed to input
+2017-03-12 23:06:16   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-03-12 23:06:47  ERROR [libs.ActionWithOurElements] : Can not work with element
+2017-03-12 23:07:54   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-03-12 23:07:59   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-03-12 23:08:12   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:08:12   INFO [libs.ActionWithOurElements] : Cabce Fabcewas inputed to input
+2017-03-12 23:08:12   INFO [libs.ActionWithOurElements] : Cabce.Fabce@foo.comwas inputed to input
+2017-03-12 23:08:13   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-03-12 23:09:13  ERROR [libs.ActionWithOurElements] : Can not work with element
+2017-03-12 23:09:18   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-03-12 23:09:23   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-03-12 23:09:35   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:09:36   INFO [libs.ActionWithOurElements] : Aabce Fabcewas inputed to input
+2017-03-12 23:09:36   INFO [libs.ActionWithOurElements] : Aabce.Fabce@foo.comwas inputed to input
+2017-03-12 23:09:36   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-03-12 23:10:42   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:10:44   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:10:54   INFO [libs.Utils] : ScreenShot: ..\Angel\target\screenshot\signUpTest\SignUpTest\SignUpTest[0].jpg
+2017-03-12 23:39:24   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-03-12 23:39:31   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-03-12 23:39:43   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:39:43   INFO [libs.ActionWithOurElements] : Babce Babcewas inputed to input
+2017-03-12 23:39:44   INFO [libs.ActionWithOurElements] : Babce.Babce@foo.comwas inputed to input
+2017-03-12 23:39:44   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-03-12 23:40:44  ERROR [libs.ActionWithOurElements] : Can not work with element
+2017-03-12 23:41:08   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-03-12 23:41:13   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-03-12 23:41:25   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:41:26   INFO [libs.ActionWithOurElements] : Dabce Fabcewas inputed to input
+2017-03-12 23:41:26   INFO [libs.ActionWithOurElements] : Dabce.Fabce@foo.comwas inputed to input
+2017-03-12 23:41:26   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-03-12 23:42:31   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:42:33   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:42:53  ERROR [libs.ActionWithOurElements] : Can not work with element
+2017-03-12 23:47:05   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-03-12 23:47:10   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-03-12 23:47:22   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:47:23   INFO [libs.ActionWithOurElements] : Babce Aabcewas inputed to input
+2017-03-12 23:47:23   INFO [libs.ActionWithOurElements] : Babce.Aabce@foo.comwas inputed to input
+2017-03-12 23:47:23   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-03-12 23:48:26   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:48:28   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:56:58   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-03-12 23:57:02   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-03-12 23:57:14   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:57:15   INFO [libs.ActionWithOurElements] : Babce Dabcewas inputed to input
+2017-03-12 23:57:15   INFO [libs.ActionWithOurElements] : Babce.Dabce@foo.comwas inputed to input
+2017-03-12 23:57:15   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-03-12 23:58:19   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:58:21   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:58:23   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:58:25   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:58:26   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:58:28   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:58:31   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-03-12 23:58:41   INFO [libs.Utils] : ScreenShot: ..\Angel\target\screenshot\signUpTest\SignUpTest\SignUpTest[0].jpg
+2017-04-12 00:05:55   INFO [loginTest.ValidLogin] : Chrome will be started
+2017-04-12 00:06:01   INFO [loginTest.ValidLogin] : Chrome is started
+2017-04-12 00:06:10   INFO [libs.ActionWithOurElements] : stritenko@gmail.comwas inputed to input
+2017-04-12 00:06:10   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-04-12 00:06:14   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-04-12 00:10:00   INFO [signUpTest.SignUpTest] : Chrome will be started
+2017-04-12 00:10:06   INFO [signUpTest.SignUpTest] : Chrome is started
+2017-04-12 00:10:27   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-04-12 00:10:28   INFO [libs.ActionWithOurElements] : Fabce Babcewas inputed to input
+2017-04-12 00:10:28   INFO [libs.ActionWithOurElements] : Fabce.Babce@foo.comwas inputed to input
+2017-04-12 00:10:28   INFO [libs.ActionWithOurElements] : 1qazxsw2was inputed to input
+2017-04-12 00:11:31   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-04-12 00:11:33   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-04-12 00:11:36   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-04-12 00:11:38   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-04-12 00:11:41   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-04-12 00:11:43   INFO [libs.ActionWithOurElements] : Element was clicked
+2017-04-12 00:11:45   INFO [libs.ActionWithOurElements] : Element was clicked
